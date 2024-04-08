@@ -11,4 +11,6 @@ I use Python to run my optimization project and visualize it.
 ## Result
 <img src="Result.png" width="400"/>
 As shown in the figure above, after 30 iterations of the agent going from the starting point to the ending point, we can see that the more iterations the less the steps the agent takes to find the best route.  
-This is because I apply **q learning** where the agent gradually learns more after each iteration.
+This is because I apply 
+**q learning** 
+where the agent gradually learns more after each iteration.
